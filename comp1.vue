@@ -1,7 +1,10 @@
 <template>
     <div>
-        Component1
+        Component3
     </div>
 </template>
 <script>
+export default {
+  name: 'Component3'
+}
 </script>
